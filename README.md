@@ -89,19 +89,6 @@ I particularly enjoy building full-stack applications with modern frontend archi
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevPratham404&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevPratham404&layout=compact&theme=transparent&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevPratham404&theme=transparent&hide_border=true" width="75%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, collaborating on interesting ideas, contributing to open source, and exploring opportunities to build something meaningful.
